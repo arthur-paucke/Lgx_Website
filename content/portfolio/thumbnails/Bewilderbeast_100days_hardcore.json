@@ -1,0 +1,16 @@
+{
+  "beforeImage": {
+    "src": "/imgs/portfolio/thumbnails/Bewilderbeast_100days_hardcore_BEFORE.png",
+    "alt": "X"
+  },
+  "finalImage": {
+    "src": "/imgs/portfolio/thumbnails/Bewilderbeast_100days_hardcore.png",
+    "alt": "X"
+  },
+  "finalImageVariants": [
+    {
+      "src": "/imgs/portfolio/thumbnails/Bewilderbeast_100days_hardcore_V2.png",
+      "alt": "X"
+    }
+  ]
+}

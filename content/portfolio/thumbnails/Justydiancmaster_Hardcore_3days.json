@@ -1,0 +1,16 @@
+{
+  "beforeImage": {
+    "src": "/imgs/portfolio/thumbnails/Justydiancmaster_Hardcore_3days_BEFORE.png",
+    "alt": "X"
+  },
+  "finalImage": {
+    "src": "/imgs/portfolio/thumbnails/Justydiancmaster_Hardcore_3days.png",
+    "alt": "X"
+  },
+  "finalImageVariants": [
+    {
+      "src": "/imgs/portfolio/thumbnails/Justydiancmaster_Hardcore_3days_WITHOUT_TEXT.png",
+      "alt": "X"
+    }
+  ]
+}

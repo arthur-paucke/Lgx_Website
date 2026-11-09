@@ -1,0 +1,10 @@
+{
+  "beforeImage": {
+    "src": "/imgs/portfolio/thumbnails/Portfal_Broke_BEFORE.png",
+    "alt": "X"
+  },
+  "finalImage": {
+    "src": "/imgs/portfolio/thumbnails/Portfal_Broke.png",
+    "alt": "X"
+  }
+}
