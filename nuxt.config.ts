@@ -87,7 +87,7 @@ export default defineNuxtConfig({
         route: "/admin",
         repository: {
             provider: "github",
-            owner: "ArtusLama",
+            owner: "arthur-paucke",
             repo: "Lgx_Website",
             branch: "main",
         },
